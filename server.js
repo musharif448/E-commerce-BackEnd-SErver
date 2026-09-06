@@ -15,7 +15,7 @@ connectCloudinary()
 
 // middlewares
 app.use(express.json())
-app.use(cors({origin : "[https://helpful-pithivier-31419b.netlify.app/]"}))
+app.use(cors({origin : "[https://effortless-hummingbird-6f44cc.netlify.app]"}))
 
 
 //api endpoints
