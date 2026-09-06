@@ -15,7 +15,7 @@ connectCloudinary()
 
 // middlewares
 app.use(express.json())
-app.use(cors({origin : "[https://e-commerce-back-end-s-erver.vercel.app/]"}))
+app.use(cors({origin : "[https://willowy-sunflower-bc2b25.netlify.app/]"}))
 
 
 //api endpoints
